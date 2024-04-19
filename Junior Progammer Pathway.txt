@@ -1,0 +1,20 @@
+1. Components
+
+-  add behaviors and functionality to a GameObject. GameObjects have default components, such as the Transform and Sprite Renderer Components that you can see immediately when you create a new Sprite. In this tutorial, you will add another component, the RigidBody 2D Component, which gives a Sprite physical properties so that it can interact with gravity and other Sprites. You will position the Main Camera to watch how a Sprite responds to gravity in 2D.
+
+
+2. UPdate call
+- Call 50-60 times / per second
+
+
+3. Rigidbody 
+- Simulate physic for gameobject
+
+4. LateUpdate
+- Update after Update method excuted
+
+5. Input
+ - with Name in ProjectSetting/Input Manager
+
+6. Global, Local trong Editor
+ - Changing Z position value
