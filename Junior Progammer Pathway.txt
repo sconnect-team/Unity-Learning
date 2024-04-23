@@ -18,3 +18,21 @@
 
 6. Global, Local trong Editor
  - Changing Z position value
+
+7. Camera 
+ - Projection: Perpective(Phối cảnh) - Orthographic(Isometric)
+
+8. Audio Source
+- In 3D you can finetune sound to make sense close-far and Left-right: Spatial Blend -> value = 1 (for 3D)
+
+#Flow to your code
+- Use simulator in Scene
+- Use Update to spawn whatever you want like in scene
+
+
+#Extension
+- FOrmat document: Ctrl + K -> Ctrl + D
+
+* SCript Extentions
+
+1. InvokeRepeating();
