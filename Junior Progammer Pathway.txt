@@ -25,6 +25,12 @@
 8. Audio Source
 - In 3D you can finetune sound to make sense close-far and Left-right: Spatial Blend -> value = 1 (for 3D)
 
+9. Transform
+- Transform.forward/up/right: Normalize theo Direction Arrow in Scene 
+
+10. Vector
+- Normalized: Limit the Vector within 0-1 with same Direction to intput Vector
+
 #Flow to your code
 - Use simulator in Scene
 - Use Update to spawn whatever you want like in scene
@@ -36,3 +42,10 @@
 * SCript Extentions
 
 1. InvokeRepeating();
+
+# IDEA Extenstion
+1. you can create loop sprite with size.x:
+-   if (transform.position.x < startPos.x - repeatWidth)
+  {
+      transform.position = startPos;
+  }
