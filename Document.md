@@ -15,3 +15,4 @@ Combined emphasis with **asterisks and _underscores_**.
 4. And another item.
 
 [I'm an inline-style link](https://www.google.com)
+![descriptive alt text](https://github.com/sconnect-team/Unity-Learning/blob/main/Md%20Images/1.1%20ScriptBoard.png "Logo Title Text 1")
