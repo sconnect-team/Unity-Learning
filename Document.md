@@ -2,7 +2,8 @@
 ## Heading 2
 ### Heading 3
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Bài tập 1:  Cần ít nhất 3 tối ưu để cải thiện hiệu năng game
+1.	Đổi từ việc dùng List<Cell> để lưu rồi trả về danh sách phần tử PotentialMatch -> IENumurable<Cell> để duyệt rồi trả về các phần tử đủ điều kiện luôn
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
